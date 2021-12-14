@@ -1,0 +1,58 @@
+
+/* .col-5 { */
+    /* text-align: left; */
+    /* align-self: center; */
+    /* font-size: 12px; */
+    /* display: flex; */
+    /* justify-content: center; */
+/* } */
+
+.product{
+    text-align: center;
+    color: rgb(48, 85, 141);
+    font-weight: bolder;
+    padding-top: 20px;
+}
+#clk {
+    color: rgb(48, 85, 141); 
+    text-align: left;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+input {
+border-radius: 50%;
+width: 18px;
+height:18px;
+font-size: 10px;
+text-align: center;
+align-content: center;
+border: 0.5px solid rgb(151, 173, 187);
+padding: 2px;
+color: cadetblue;
+}
+
+.content {
+    margin-top: 40px;
+}
+.a {
+    margin-top: 10px;
+}
+.content2{margin-top: 50px;
+    
+}
+
+.button {
+    margin-left: 10px;
+}
+span{
+    margin-left: 10px;}
+
+.img1 {
+   margin-top: 20px;
+
+}
+img {
+    width: 250px;
+    height: 200px;
+  
+}
